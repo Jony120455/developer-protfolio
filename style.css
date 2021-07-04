@@ -56,6 +56,10 @@ h2{
 .exprience-developer h3{
     color: orange;
 }
+.exprience-developer p{
+    text-align: justify;
+
+}
 #button-color{
     border-left: 7px solid;
     border-image:linear-gradient(salmon, tomato);
